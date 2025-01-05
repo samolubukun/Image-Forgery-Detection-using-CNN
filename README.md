@@ -25,8 +25,8 @@ Model download (download and place in the same folder as the streamlit app.py in
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-forgery-detection.git
-   cd image-forgery-detection
+   git clone https://github.com/samolubukun/Image-Forgery-Detection-using-CNN.git
+   cd Image-Forgery-Detection-using-CNN
 
 
 2. Install dependencies:
