@@ -17,7 +17,7 @@ The CNN model was trained on preprocessed ELA images and optimized for binary cl
   - Accuracy: 92.5%
   - Precision: 91.8%
   - Recall: 93.0%
-  - Access Training notebook: [Notebook](https://github.com/samolubukun/Image-Forgery-Detection-using-CNN/tree/main/Notebook)
+  - Access Training Notebook: [Notebook](https://github.com/samolubukun/Image-Forgery-Detection-using-CNN/tree/main/Notebook)
   - Dataset used: [CASIA 2.0 Image Tampering Detection Dataset](https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset)
 
 Model download (download and place in the same folder as the streamlit app.py in order to run the system): [imageforgerydetection.h5](https://drive.google.com/file/d/1Z4IQ7ba1xIEzZxAoD3aH6Bdnb0gsVNLU/view?usp=sharing)
