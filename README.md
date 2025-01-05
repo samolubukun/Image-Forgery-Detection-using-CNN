@@ -6,7 +6,6 @@ This repository provides a deep learning-based solution for detecting image forg
 
 
 ## Features
-- **Error Level Analysis (ELA):** Highlights discrepancies in compression levels to reveal forgery clues.
 - **Streamlit Web App:** A user-friendly interface for uploading and analyzing images.
 - **Trained CNN Model:** Achieves accurate predictions on real and forged images.
 
