@@ -2,6 +2,9 @@
 
 This repository provides a deep learning-based solution for detecting image forgeries using Convolutional Neural Networks (CNNs). The system preprocesses images using Error Level Analysis (ELA) and predicts whether an image is real or forged with a trained CNN model.
 
+![Screenshot (262)](https://github.com/user-attachments/assets/883982f1-7928-4839-a5ba-fc45f91f6cf3)
+
+
 ## Features
 - **Error Level Analysis (ELA):** Highlights discrepancies in compression levels to reveal forgery clues.
 - **Streamlit Web App:** A user-friendly interface for uploading and analyzing images.
